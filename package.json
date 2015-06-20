@@ -1,0 +1,15 @@
+{
+  "name": "doTA.Router",
+  "version": "0.0.1",
+  "description": "doTA.Router, full regex and doTA compiled templates support, originally ngRoute fork",
+  "main": "doTA.Router.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-concat": "*",
+    "gulp-rename": "*",
+    "gulp-uglify": "*"
+  },
+  "scripts": {},
+  "license": "MIT"
+}

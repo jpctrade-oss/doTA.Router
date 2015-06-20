@@ -1,0 +1,17 @@
+{
+  "name": "doTA.Router",
+  "main": [
+    "dist/doTA.Router.js"
+  ],
+  "version": "0.0.1",
+  "description": "doTA.Router, full regex and doTA compiled templates support, originally ngRoute fork",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "*",
+    "!dist/*.js"
+  ]
+}
